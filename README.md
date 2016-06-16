@@ -1,3 +1,7 @@
+# aurelia-router-demo
+
+A simple router [demo](http://scottwhittaker.net/aurelia/2016/06/12/aurelia-router-demo.html) based off the [aurelia-skeleton-navigation](https://github.com/aurelia/skeleton-navigation/releases/latest) app.
+
 # aurelia-skeleton-navigation
 
 ## Running The App
